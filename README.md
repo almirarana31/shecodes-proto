@@ -115,5 +115,24 @@ STEM Sisters aims to:
 - Build supportive communities for underrepresented groups
 - Address systemic barriers through practical solutions
 
+# Screenshots of the App
+## Dashoard
+![1](screenshots/1.png)
+## Mentorship
+![2](screenshots/2.png)
+## Flexible Learning
+![3](screenshots/3.png)
+## Wellness Hub
+![4](screenshots/4.png)
+## Community
+![5](screenshots/5.png)
+## Childcare Support
+![6](screenshots/6.png)
+## Opportunities
+![7](screenshots/7.png)
+## Resources
+![8](screenshots/8.png)
+
+
 # "Empowering women in STEM, one connection at a time." 💜
 # STEM Sisters - Where science meets sisterhood.
