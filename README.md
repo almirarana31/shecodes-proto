@@ -1,70 +1,138 @@
-# Getting Started with Create React App
+# STEM Sisters 🔬👩‍💻
+## Empowering Women in STEM
+A comprehensive support platform designed specifically for women in STEM fields, with special focus on working mothers and single parents. STEM Sisters provides mentorship, flexible learning opportunities, wellness support, and community connection to help women thrive in their STEM careers while balancing family responsibilities.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 🌟 Features
+### 📊 Dashboard
+- Personalized welcome with goal tracking
+- Learning progress visualization
+- Quick stats on mentor sessions and community engagement
+- Upcoming events with childcare availability indicators
 
-## Available Scripts
+### 👥 Mentorship Program
+- Connect with experienced STEM professionals
+- Filter mentors by specialty (Working Moms, Single Parents, Career Transition, Leadership)
+- View mentor ratings and session history
+- One-click connection and profile viewing
 
-In the project directory, you can run:
+### 📚 Flexible Learning
+- Self-paced courses designed for working mothers
+- Weekend and evening session options
+- Integrated childcare support for all programs
+- Popular courses include:
+  - Machine Learning Fundamentals
+  - Data Visualization with Python
+  - Leadership in Tech
 
-### `npm start`
+### 💚 Wellness Hub
+- 24/7 anonymous counseling chat
+- Stress management tools and meditation guides
+- Working mom support groups
+- Health education resources (reproductive health, nutrition, self-care)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### 👶 Childcare Support Network
+- *Emergency Childcare Fund:* Financial assistance for interviews, classes, or work
+- *Childcare Exchange:* Trade childcare hours with other parents
+- *Event Childcare:* Free childcare during workshops and community events
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### 🌐 Community Features
+- Forums for sharing experiences and getting support
+- Regional meetups with childcare provided
+- Professional networking opportunities
+- Resource sharing and collaboration
 
-### `npm test`
+### 💼 Career Opportunities
+- Curated job board with family-friendly positions
+- Flexible and remote work opportunities
+- Internship programs designed for career returners
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 📖 Resources & Tools
+- Educational materials and guides
+- Financial aid information
+- Practical tools for career development
+- STEM education resources for children
 
-### `npm run build`
+### 🛠️ Technology Stack
+- Frontend: React with Hooks (useState)
+- Styling: Tailwind CSS
+- Icons: Lucide React
+- Responsive Design: Mobile-first approach with hamburger menu
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# 🚀 Getting Started
+## Prerequisites
+- Node.js (v14 or higher)
+- npm or yarn package manager
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Installation
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. Clone the repository:
+```
+git clone https://github.com/yourusername/stem-sisters.git
+cd stem-sisters
+```
+2. Install dependencies:
+```
+npm install
+```
+3. Install required packages:
+```
+npm install react lucide-react
+```
+Start the development server:
+```
+npm start
+```
 
-### `npm run eject`
+Open your browser and navigate to http://localhost:3000
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Feature Requests
+- Focus on features that support working mothers in STEM
+- Consider childcare integration for all interactive features
+- Prioritize accessibility and inclusivity
+- Maintain the supportive, community-focused tone
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🎯 Target Audience
+### Primary Users:
+- Women in STEM fields
+- Working mothers in technology, science, engineering, and mathematics
+- Single parents pursuing STEM careers
+- Women returning to STEM careers after breaks
+- STEM students balancing family responsibilities
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Key Pain Points Addressed:
+- Lack of flexible learning options
+- Limited mentorship opportunities
+- Childcare barriers to professional development
+- Isolation in male-dominated fields
+- Work-life balance challenges
+- Career advancement obstacles
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### 🌍 Social Impact
+STEM Sisters aims to:
+- Increase retention of women in STEM fields
+- Support working mothers' career advancement
+- Provide accessible education and professional development
+- Build supportive communities for underrepresented groups
+- Address systemic barriers through practical solutions
 
-## Learn More
+# Screenshots of the App
+## Dashoard
+![1](screenshots/1.png)
+## Mentorship
+![2](screenshots/2.png)
+## Flexible Learning
+![3](screenshots/3.png)
+## Wellness Hub
+![4](screenshots/4.png)
+## Community
+![5](screenshots/5.png)
+## Childcare Support
+![6](screenshots/6.png)
+## Opportunities
+![7](screenshots/7.png)
+## Resources
+![8](screenshots/8.png)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# "Empowering women in STEM, one connection at a time." 💜
+# STEM Sisters - Where science meets sisterhood.
