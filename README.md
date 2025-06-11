@@ -156,13 +156,13 @@ HERizon aims to:
 ## Dashboard
 <img src="screenshots/1.JPG" alt="1" width="200"/>
 ## Career Paths
-![2](screenshots/2.JPG)
+<img src="screenshots/2.JPG" alt="2" width="200"/>
 ## Certifications
-![3](screenshots/3.JPG)
+<img src="screenshots/3.JPG" alt="3" width="200"/>
 ## Mentorship
-![4](screenshots/5.JPG)
+<img src="screenshots/5.JPG" alt="5" width="200"/>
 ## Financial Planning
-![7](screenshots/6.JPG)
+<img src="screenshots/6.JPG" alt="6" width="200"/>
 
 
 # "Empowering women in tech, anytime and anywhere." 💜
