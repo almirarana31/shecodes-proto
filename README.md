@@ -154,7 +154,7 @@ HERizon aims to:
 
 # Screenshots of the App
 ## Dashboard
-<img src="1.JPG" alt="1" width="200"/>
+<img src="screenshots/1.JPG" alt="1" width="200"/>
 ## Career Paths
 ![2](screenshots/2.JPG)
 ## Certifications
