@@ -1,28 +1,37 @@
-# STEM Sisters 🔬👩‍💻
-## Empowering Women in STEM
-A comprehensive support platform designed specifically for women in STEM fields, with special focus on working mothers and single parents. STEM Sisters provides mentorship, flexible learning opportunities, wellness support, and community connection to help women thrive in their STEM careers while balancing family responsibilities.
+# HERizon 🔬👩‍💻
+## Platform Karir Wanita di Tech
+A comprehensive career development platform designed specifically for Indonesian women in technology fields, with special focus on working mothers and single parents. HERizon provides mentorship, flexible learning paths, international certifications, and community connection to help women thrive in tech careers while balancing family responsibilities.
 
 ## 🌟 Features
 ### 📊 Dashboard
-- Personalized welcome with goal tracking
-- Learning progress visualization
-- Quick stats on mentor sessions and community engagement
-- Upcoming events with childcare availability indicators
+- Personalized welcome with career goal tracking
+- Learning progress visualization with offline access
+- Quick stats on certifications, study hours, and streak
+- Upcoming events with one-click registration
+- Offline content downloading for learning without internet
 
-### 👥 Mentorship Program
-- Connect with experienced STEM professionals
-- Filter mentors by specialty (Working Moms, Single Parents, Career Transition, Leadership)
-- View mentor ratings and session history
-- One-click connection and profile viewing
+### 🏆 Certifications
+- International certifications from Google, Microsoft, IBM and more
+- Mobile-optimized certification cards with enhanced visual hierarchy
+- Progress tracking for ongoing certifications
+- Advanced filter controls for certification status
+- Individual certification offline download capability
+- Batch download option for all certifications
+- Badge verification with LinkedIn and Credly integration
+- Responsive certification search with intelligent suggestions
+- Touch-friendly interface with smooth animations
 
-### 📚 Flexible Learning
-- Self-paced courses designed for working mothers
-- Weekend and evening session options
-- Integrated childcare support for all programs
-- Popular courses include:
-  - Machine Learning Fundamentals
-  - Data Visualization with Python
-  - Leadership in Tech
+### 📚 Career Paths
+- Integrated career paths with international certifications
+- Mobile-optimized learning interface with improved touch targets
+- Enhanced filter options for skill level and industry demand
+- Individual path offline download capability
+- Responsive visual layout with proper spacing for mobile devices
+- Career progress tracking with animated progress bars
+- Popular paths include:
+  - Data Science Career Path
+  - UI/UX Design Career Path
+  - IT Support Specialist Path
 
 ### 💚 Wellness Hub
 - 24/7 anonymous counseling chat
@@ -53,10 +62,21 @@ A comprehensive support platform designed specifically for women in STEM fields,
 - STEM education resources for children
 
 ### 🛠️ Technology Stack
-- Frontend: React with Hooks (useState)
-- Styling: Tailwind CSS
-- Icons: Lucide React
-- Responsive Design: Mobile-first approach with hamburger menu
+- Frontend: React with Hooks (useState, useEffect, useRef)
+- Styling: Tailwind CSS with custom animations and transitions
+- Icons: Lucide React for consistent visual language
+- Responsive Design: Mobile-first approach with offline capabilities
+- Animations: Custom CSS transitions for improved UX
+- Progressive Web App: Offline functionality and local caching
+
+### 🚀 Recent Enhancements
+- **Mobile Optimization**: Touch-friendly interface elements throughout the app
+- **Responsive Headers**: Adaptive layouts for all screen sizes 
+- **Offline Capabilities**: Download content for use without internet connection
+- **Visual Hierarchy**: Improved for better readability on small screens
+- **Animations & Transitions**: Smooth feedback for user interactions
+- **Touch Targets**: Enlarged for better mobile usability
+- **Download Manager**: Individual and batch download options for learning materials
 
 # 🚀 Getting Started
 ## Prerequisites
@@ -67,8 +87,8 @@ A comprehensive support platform designed specifically for women in STEM fields,
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/stem-sisters.git
-cd stem-sisters
+git clone https://github.com/yourusername/horizon-tech.git
+cd horizon-tech
 ```
 2. Install dependencies:
 ```
@@ -78,17 +98,31 @@ npm install
 ```
 npm install react lucide-react
 ```
-Start the development server:
+4. Start the development server:
 ```
 npm start
 ```
 
-Open your browser and navigate to http://localhost:3000
+5. Open your browser and navigate to http://localhost:3000
+
+## Mobile Testing
+For the best mobile experience:
+1. Use Chrome DevTools (F12) and toggle device toolbar
+2. Select various mobile devices to test responsive design
+3. Enable throttling to test offline capabilities
+4. Test touch interactions and animations
+
+## Offline Functionality
+HERizon supports offline access through:
+- Local content caching
+- Downloadable learning materials
+- Service worker integration (in progress)
+- Offline-first UX patterns
 
 ### Feature Requests
 - Focus on features that support working mothers in STEM
 - Consider childcare integration for all interactive features
-- Prioritize accessibility and inclusivity
+- Prioritize accessibility and inclusivity with mobile optimization
 - Maintain the supportive, community-focused tone
 
 ## 🎯 Target Audience
@@ -108,31 +142,29 @@ Open your browser and navigate to http://localhost:3000
 - Career advancement obstacles
 
 ### 🌍 Social Impact
-STEM Sisters aims to:
+HERizon aims to:
 - Increase retention of women in STEM fields
-- Support working mothers' career advancement
-- Provide accessible education and professional development
+- Support working mothers' career advancement through flexible, mobile learning
+- Provide accessible education and professional development regardless of internet connectivity
 - Build supportive communities for underrepresented groups
-- Address systemic barriers through practical solutions
+- Bridge the digital divide through mobile-first and offline-capable design
+- Address systemic barriers through practical tech solutions
+- Empower women with limited time through efficient, touch-friendly interfaces
 
 # Screenshots of the App
-## Dashoard
-![1](screenshots/1.png)
+## Dashboard
+![1](screenshots/1.jpg)
+## Career Paths
+![2](screenshots/2.jpg)
+*Enhanced with mobile optimization and offline capabilities*
+## Certifications
+![3](screenshots/3.jpg)
+*Enhanced with responsive design and offline download options*
 ## Mentorship
-![2](screenshots/2.png)
-## Flexible Learning
-![3](screenshots/3.png)
-## Wellness Hub
-![4](screenshots/4.png)
-## Community
-![5](screenshots/5.png)
-## Childcare Support
-![6](screenshots/6.png)
-## Opportunities
-![7](screenshots/7.png)
-## Resources
-![8](screenshots/8.png)
+![4](screenshots/5.jpg)
+## Financial Planning
+![7](screenshots/6.jpg)
 
 
-# "Empowering women in STEM, one connection at a time." 💜
-# STEM Sisters - Where science meets sisterhood.
+# "Empowering women in tech, anytime and anywhere." 💜
+# HERizon - Where innovation meets opportunity, online or offline.
