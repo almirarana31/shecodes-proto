@@ -1,5 +1,4 @@
-# HERizon 
-![Screenshot 2025-06-10 202821](https://github.com/user-attachments/assets/a4a3d51b-94e8-49bb-963a-1c7639afbf01)
+ ![Screenshot 2025-06-10 202821](https://github.com/user-attachments/assets/a4a3d51b-94e8-49bb-963a-1c7639afbf01)
 
 ## Platform Karir Wanita di Tech
 A comprehensive career development platform designed specifically for Indonesian women in technology fields, with special focus on working mothers and single parents. HERizon provides mentorship, flexible learning paths, international certifications, and community connection to help women thrive in tech careers while balancing family responsibilities.
@@ -155,13 +154,11 @@ HERizon aims to:
 
 # Screenshots of the App
 ## Dashboard
-![1](screenshots/1.JPG)
+<img src="1.JPG" alt="1" width="200"/>
 ## Career Paths
 ![2](screenshots/2.JPG)
-*Enhanced with mobile optimization and offline capabilities*
 ## Certifications
 ![3](screenshots/3.JPG)
-*Enhanced with responsive design and offline download options*
 ## Mentorship
 ![4](screenshots/5.JPG)
 ## Financial Planning
