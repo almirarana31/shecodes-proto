@@ -155,12 +155,16 @@ HERizon aims to:
 # Screenshots of the App
 ## Dashboard
 <img src="screenshots/1.JPG" alt="1" width="200"/>
+
 ## Career Paths
 <img src="screenshots/2.JPG" alt="2" width="200"/>
+
 ## Certifications
 <img src="screenshots/3.JPG" alt="3" width="200"/>
+
 ## Mentorship
 <img src="screenshots/5.JPG" alt="5" width="200"/>
+
 ## Financial Planning
 <img src="screenshots/6.JPG" alt="6" width="200"/>
 
